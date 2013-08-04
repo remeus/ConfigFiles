@@ -1,4 +1,4 @@
-#export CLICOLOR=1
+export CLICOLOR=1
 #export PS1="\u@\W$ "
 
 #Prompt and prompt colors
